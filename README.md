@@ -77,6 +77,13 @@ INSERT INTO users (name, age, email) VALUES
 ('Megha', 22, 'megha@email.com');
 
 
+
+
+
+
+
+
+
 🧠 Learnings
 Create and call stored procedures
 
